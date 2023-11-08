@@ -1,0 +1,209 @@
+Log files with the details...
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/java java /usr/lib/jvm/java-11-openjdk-amd64/bin/java 1111 --slave /usr/share/man/man1/java.1.gz java.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/java.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group java updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/java
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jjs jjs /usr/lib/jvm/java-11-openjdk-amd64/bin/jjs 1111 --slave /usr/share/man/man1/jjs.1.gz jjs.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jjs.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jjs updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jjs
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/keytool keytool /usr/lib/jvm/java-11-openjdk-amd64/bin/keytool 1111 --slave /usr/share/man/man1/keytool.1.gz keytool.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/keytool.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group keytool updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/keytool
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/rmid rmid /usr/lib/jvm/java-11-openjdk-amd64/bin/rmid 1111 --slave /usr/share/man/man1/rmid.1.gz rmid.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/rmid.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group rmid updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/rmid
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/rmiregistry rmiregistry /usr/lib/jvm/java-11-openjdk-amd64/bin/rmiregistry 1111 --slave /usr/share/man/man1/rmiregistry.1.gz rmiregistry.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/rmiregistry.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group rmiregistry updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/rmiregistry
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/pack200 pack200 /usr/lib/jvm/java-11-openjdk-amd64/bin/pack200 1111 --slave /usr/share/man/man1/pack200.1.gz pack200.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/pack200.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group pack200 updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/pack200
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/unpack200 unpack200 /usr/lib/jvm/java-11-openjdk-amd64/bin/unpack200 1111 --slave /usr/share/man/man1/unpack200.1.gz unpack200.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/unpack200.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group unpack200 updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/unpack200
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jexec jexec /usr/lib/jvm/java-11-openjdk-amd64/lib/jexec 1111 --slave /usr/share/binfmts/jar jexec-binfmt /usr/lib/jvm/java-11-openjdk-amd64/lib/jar.binfmt
+"
+update-alternatives,"2023-10-02 11:33:30: link group jexec updated to point to /usr/lib/jvm/java-11-openjdk-amd64/lib/jexec
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jar jar /usr/lib/jvm/java-11-openjdk-amd64/bin/jar 1111 --slave /usr/share/man/man1/jar.1.gz jar.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jar.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jar updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jar
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jarsigner jarsigner /usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner 1111 --slave /usr/share/man/man1/jarsigner.1.gz jarsigner.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jarsigner.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jarsigner updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/javac javac /usr/lib/jvm/java-11-openjdk-amd64/bin/javac 1111 --slave /usr/share/man/man1/javac.1.gz javac.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/javac.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group javac updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/javac
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/javadoc javadoc /usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc 1111 --slave /usr/share/man/man1/javadoc.1.gz javadoc.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/javadoc.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group javadoc updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/javap javap /usr/lib/jvm/java-11-openjdk-amd64/bin/javap 1111 --slave /usr/share/man/man1/javap.1.gz javap.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/javap.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group javap updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/javap
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jcmd jcmd /usr/lib/jvm/java-11-openjdk-amd64/bin/jcmd 1111 --slave /usr/share/man/man1/jcmd.1.gz jcmd.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jcmd.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jcmd updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jcmd
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jdb jdb /usr/lib/jvm/java-11-openjdk-amd64/bin/jdb 1111 --slave /usr/share/man/man1/jdb.1.gz jdb.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jdb.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jdb updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jdb
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jdeprscan jdeprscan /usr/lib/jvm/java-11-openjdk-amd64/bin/jdeprscan 1111
+"
+update-alternatives,"2023-10-02 11:33:30: link group jdeprscan updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jdeprscan
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jdeps jdeps /usr/lib/jvm/java-11-openjdk-amd64/bin/jdeps 1111 --slave /usr/share/man/man1/jdeps.1.gz jdeps.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jdeps.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jdeps updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jdeps
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jfr jfr /usr/lib/jvm/java-11-openjdk-amd64/bin/jfr 1111
+"
+update-alternatives,"2023-10-02 11:33:30: link group jfr updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jfr
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jimage jimage /usr/lib/jvm/java-11-openjdk-amd64/bin/jimage 1111
+"
+update-alternatives,"2023-10-02 11:33:30: link group jimage updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jimage
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jinfo jinfo /usr/lib/jvm/java-11-openjdk-amd64/bin/jinfo 1111 --slave /usr/share/man/man1/jinfo.1.gz jinfo.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jinfo.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jinfo updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jinfo
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jlink jlink /usr/lib/jvm/java-11-openjdk-amd64/bin/jlink 1111
+"
+update-alternatives,"2023-10-02 11:33:30: link group jlink updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jlink
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jmap jmap /usr/lib/jvm/java-11-openjdk-amd64/bin/jmap 1111 --slave /usr/share/man/man1/jmap.1.gz jmap.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jmap.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jmap updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jmap
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jmod jmod /usr/lib/jvm/java-11-openjdk-amd64/bin/jmod 1111
+"
+update-alternatives,"2023-10-02 11:33:30: link group jmod updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jmod
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jps jps /usr/lib/jvm/java-11-openjdk-amd64/bin/jps 1111 --slave /usr/share/man/man1/jps.1.gz jps.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jps.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jps updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jps
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jrunscript jrunscript /usr/lib/jvm/java-11-openjdk-amd64/bin/jrunscript 1111 --slave /usr/share/man/man1/jrunscript.1.gz jrunscript.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jrunscript.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jrunscript updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jrunscript
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jshell jshell /usr/lib/jvm/java-11-openjdk-amd64/bin/jshell 1111
+"
+update-alternatives,"2023-10-02 11:33:30: link group jshell updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jshell
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jstack jstack /usr/lib/jvm/java-11-openjdk-amd64/bin/jstack 1111 --slave /usr/share/man/man1/jstack.1.gz jstack.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jstack.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jstack updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jstack
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jstat jstat /usr/lib/jvm/java-11-openjdk-amd64/bin/jstat 1111 --slave /usr/share/man/man1/jstat.1.gz jstat.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jstat.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jstat updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jstat
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jstatd jstatd /usr/lib/jvm/java-11-openjdk-amd64/bin/jstatd 1111 --slave /usr/share/man/man1/jstatd.1.gz jstatd.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jstatd.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jstatd updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jstatd
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/rmic rmic /usr/lib/jvm/java-11-openjdk-amd64/bin/rmic 1111 --slave /usr/share/man/man1/rmic.1.gz rmic.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/rmic.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group rmic updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/rmic
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/serialver serialver /usr/lib/jvm/java-11-openjdk-amd64/bin/serialver 1111 --slave /usr/share/man/man1/serialver.1.gz serialver.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/serialver.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group serialver updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/serialver
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jaotc jaotc /usr/lib/jvm/java-11-openjdk-amd64/bin/jaotc 1111
+"
+update-alternatives,"2023-10-02 11:33:30: link group jaotc updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jaotc
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jhsdb jhsdb /usr/lib/jvm/java-11-openjdk-amd64/bin/jhsdb 1111
+"
+update-alternatives,"2023-10-02 11:33:30: link group jhsdb updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jhsdb
+"
+update-alternatives,"2023-10-02 11:33:30: run with --install /usr/bin/jconsole jconsole /usr/lib/jvm/java-11-openjdk-amd64/bin/jconsole 1111 --slave /usr/share/man/man1/jconsole.1.gz jconsole.1.gz /usr/lib/jvm/java-11-openjdk-amd64/man/man1/jconsole.1.gz
+"
+update-alternatives,"2023-10-02 11:33:30: link group jconsole updated to point to /usr/lib/jvm/java-11-openjdk-amd64/bin/jconsole
+"
+update-alternatives,"2023-10-09 15:19:02: run with --install /usr/lib/x86_64-linux-gnu/libblas.so.3 libblas.so.3-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/blas/libblas.so.3 10
+"
+update-alternatives,"2023-10-09 15:19:02: link group libblas.so.3-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/blas/libblas.so.3
+"
+update-alternatives,"2023-10-09 15:19:18: run with --install /usr/lib/x86_64-linux-gnu/liblapack.so.3 liblapack.so.3-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3 10
+"
+update-alternatives,"2023-10-09 15:19:18: link group liblapack.so.3-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3
+"
+update-alternatives,"2023-10-09 15:19:18: run with --install /usr/lib/x86_64-linux-gnu/libblas.so.3 libblas.so.3-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 100
+"
+update-alternatives,"2023-10-09 15:19:18: link group libblas.so.3-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3
+"
+update-alternatives,"2023-10-09 15:19:18: run with --install /usr/lib/x86_64-linux-gnu/liblapack.so.3 liblapack.so.3-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/liblapack.so.3 100
+"
+update-alternatives,"2023-10-09 15:19:18: link group liblapack.so.3-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/openblas-pthread/liblapack.so.3
+"
+update-alternatives,"2023-10-09 15:19:18: run with --install /usr/lib/x86_64-linux-gnu/libopenblas.so.0 libopenblas.so.0-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblas.so.0 100
+"
+update-alternatives,"2023-10-09 15:19:18: link group libopenblas.so.0-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblas.so.0
+"
+update-alternatives,"2023-10-09 15:19:18: run with --install /usr/bin/pybabel pybabel /usr/bin/pybabel-python3 200
+"
+update-alternatives,"2023-10-09 15:19:18: link group pybabel updated to point to /usr/bin/pybabel-python3
+"
+update-alternatives,"2023-10-09 15:19:23: run with --install /usr/lib/x86_64-linux-gnu/libblas.so libblas.so-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so 100 --slave /usr/lib/x86_64-linux-gnu/libblas.a libblas.a-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.a --slave /usr/include/x86_64-linux-gnu/cblas.h cblas.h-x86_64-linux-gnu /usr/include/x86_64-linux-gnu/openblas-pthread/cblas.h --slave /usr/lib/x86_64-linux-gnu/pkgconfig/blas.pc blas.pc-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/pkgconfig/blas-openblas.pc
+"
+update-alternatives,"2023-10-09 15:19:23: link group libblas.so-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so
+"
+update-alternatives,"2023-10-09 15:19:23: run with --install /usr/lib/x86_64-linux-gnu/liblapack.so liblapack.so-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/liblapack.so 100 --slave /usr/lib/x86_64-linux-gnu/liblapack.a liblapack.a-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/liblapack.a --slave /usr/lib/x86_64-linux-gnu/pkgconfig/lapack.pc lapack.pc-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/pkgconfig/lapack-openblas.pc
+"
+update-alternatives,"2023-10-09 15:19:23: link group liblapack.so-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/openblas-pthread/liblapack.so
+"
+update-alternatives,"2023-10-09 15:19:23: run with --install /usr/lib/x86_64-linux-gnu/libopenblas.so libopenblas.so-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblas.so 100 --slave /usr/lib/x86_64-linux-gnu/libopenblas.a libopenblas.a-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblas.a --slave /usr/include/x86_64-linux-gnu/cblas-openblas.h cblas-openblas.h-x86_64-linux-gnu /usr/include/x86_64-linux-gnu/openblas-pthread/cblas.h --slave /usr/include/x86_64-linux-gnu/f77blas.h f77blas.h-x86_64-linux-gnu /usr/include/x86_64-linux-gnu/openblas-pthread/f77blas.h --slave /usr/include/x86_64-linux-gnu/openblas_config.h openblas_config.h-x86_64-linux-gnu /usr/include/x86_64-linux-gnu/openblas-pthread/openblas_config.h --slave /usr/lib/x86_64-linux-gnu/pkgconfig/openblas.pc openblas.pc-x86_64-linux-gnu /usr/lib/x86_64-linux-gnu/openblas-pthread/pkgconfig/openblas.pc
+"
+update-alternatives,"2023-10-09 15:19:23: link group libopenblas.so-x86_64-linux-gnu updated to point to /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblas.so
+"
+update-alternatives,"2023-10-10 11:57:51: run with --remove editor /usr/bin/code
+"
+update-alternatives,"2023-10-10 11:59:22: run with --install /usr/bin/editor editor /usr/bin/code 0
+"
+update-alternatives,"2023-10-10 12:01:15: run with --install /usr/bin/x-www-browser x-www-browser /usr/bin/brave-browser-stable 201
+"
+update-alternatives,"2023-10-10 12:01:15: run with --install /usr/bin/gnome-www-browser gnome-www-browser /usr/bin/brave-browser-stable 201
+"
+update-alternatives,"2023-10-10 12:01:15: run with --install /usr/bin/brave-browser brave-browser /usr/bin/brave-browser-stable 201
+"
+update-alternatives,"2023-10-10 12:02:58: run with --install /usr/bin/vim vim /usr/bin/vim.basic 30
+"
+update-alternatives,"2023-10-10 12:02:58: run with --install /usr/bin/vimdiff vimdiff /usr/bin/vim.basic 30
+"
+update-alternatives,"2023-10-10 12:02:58: run with --install /usr/bin/rvim rvim /usr/bin/vim.basic 30
+"
+update-alternatives,"2023-10-10 12:02:58: run with --install /usr/bin/rview rview /usr/bin/vim.basic 30
+"
+update-alternatives,"2023-10-10 12:02:58: run with --install /usr/bin/vi vi /usr/bin/vim.basic 30 --slave /usr/share/man/da/man1/vi.1.gz vi.da.1.gz /usr/share/man/da/man1/vim.1.gz --slave /usr/share/man/de/man1/vi.1.gz vi.de.1.gz /usr/share/man/de/man1/vim.1.gz --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz
+"
+update-alternatives,"2023-10-10 12:02:58: run with --install /usr/bin/view view /usr/bin/vim.basic 30 --slave /usr/share/man/da/man1/view.1.gz view.da.1.gz /usr/share/man/da/man1/vim.1.gz --slave /usr/share/man/de/man1/view.1.gz view.de.1.gz /usr/share/man/de/man1/vim.1.gz --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz
+"
+update-alternatives,"2023-10-10 12:02:58: run with --install /usr/bin/ex ex /usr/bin/vim.basic 30 --slave /usr/share/man/da/man1/ex.1.gz ex.da.1.gz /usr/share/man/da/man1/vim.1.gz --slave /usr/share/man/de/man1/ex.1.gz ex.de.1.gz /usr/share/man/de/man1/vim.1.gz --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz
+"
+update-alternatives,"2023-10-10 12:02:58: run with --install /usr/bin/editor editor /usr/bin/vim.basic 30 --slave /usr/share/man/da/man1/editor.1.gz editor.da.1.gz /usr/share/man/da/man1/vim.1.gz --slave /usr/share/man/de/man1/editor.1.gz editor.de.1.gz /usr/share/man/de/man1/vim.1.gz --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz
+"
+update-alternatives,"2023-10-10 12:03:05: run with --install /usr/bin/rview rview /usr/bin/vim.tiny 15
+"
+update-alternatives,"2023-10-10 12:03:05: run with --install /usr/bin/vi vi /usr/bin/vim.tiny 15 --slave /usr/share/man/da/man1/vi.1.gz vi.da.1.gz /usr/share/man/da/man1/vim.1.gz --slave /usr/share/man/de/man1/vi.1.gz vi.de.1.gz /usr/share/man/de/man1/vim.1.gz --slave /usr/share/man/fr/man1/vi.1.gz vi.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/vi.1.gz vi.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/ja/man1/vi.1.gz vi.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/pl/man1/vi.1.gz vi.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/vi.1.gz vi.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/man1/vi.1.gz vi.1.gz /usr/share/man/man1/vim.1.gz
+"
+update-alternatives,"2023-10-10 12:03:05: run with --install /usr/bin/view view /usr/bin/vim.tiny 15 --slave /usr/share/man/da/man1/view.1.gz view.da.1.gz /usr/share/man/da/man1/vim.1.gz --slave /usr/share/man/de/man1/view.1.gz view.de.1.gz /usr/share/man/de/man1/vim.1.gz --slave /usr/share/man/fr/man1/view.1.gz view.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/view.1.gz view.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/ja/man1/view.1.gz view.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/pl/man1/view.1.gz view.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/view.1.gz view.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/man1/view.1.gz view.1.gz /usr/share/man/man1/vim.1.gz
+"
+update-alternatives,"2023-10-10 12:03:05: run with --install /usr/bin/ex ex /usr/bin/vim.tiny 15 --slave /usr/share/man/da/man1/ex.1.gz ex.da.1.gz /usr/share/man/da/man1/vim.1.gz --slave /usr/share/man/de/man1/ex.1.gz ex.de.1.gz /usr/share/man/de/man1/vim.1.gz --slave /usr/share/man/fr/man1/ex.1.gz ex.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/ex.1.gz ex.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/ja/man1/ex.1.gz ex.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/pl/man1/ex.1.gz ex.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/ex.1.gz ex.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/man1/ex.1.gz ex.1.gz /usr/share/man/man1/vim.1.gz
+"
+update-alternatives,"2023-10-10 12:03:05: run with --install /usr/bin/editor editor /usr/bin/vim.tiny 15 --slave /usr/share/man/da/man1/editor.1.gz editor.da.1.gz /usr/share/man/da/man1/vim.1.gz --slave /usr/share/man/de/man1/editor.1.gz editor.de.1.gz /usr/share/man/de/man1/vim.1.gz --slave /usr/share/man/fr/man1/editor.1.gz editor.fr.1.gz /usr/share/man/fr/man1/vim.1.gz --slave /usr/share/man/it/man1/editor.1.gz editor.it.1.gz /usr/share/man/it/man1/vim.1.gz --slave /usr/share/man/ja/man1/editor.1.gz editor.ja.1.gz /usr/share/man/ja/man1/vim.1.gz --slave /usr/share/man/pl/man1/editor.1.gz editor.pl.1.gz /usr/share/man/pl/man1/vim.1.gz --slave /usr/share/man/ru/man1/editor.1.gz editor.ru.1.gz /usr/share/man/ru/man1/vim.1.gz --slave /usr/share/man/man1/editor.1.gz editor.1.gz /usr/share/man/man1/vim.1.gz
+"
